@@ -1,3 +1,4 @@
+
 # Weather Desktop App
 
 A desktop weather application built with Python and Tkinter. It retrieves current weather conditions and a three-day forecast using the free [Open-Meteo API](https://open-meteo.com/).
@@ -81,3 +82,7 @@ weather-desktop-app/
 │   └── test_weather_api.py
 └── README.md
 ```
+=======
+# weather_desktop_app-
+Simple desktop weather app built with Tkinter
+>>>>>>> 05de87ac7616ab27732e878efa819e288e49c9d4
