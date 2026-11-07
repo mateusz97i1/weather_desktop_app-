@@ -18,7 +18,7 @@ class WeatherApp(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("Weather Desktop App")
-        self.geometry("560x570")
+        self.geometry("560x770")
         self.minsize(500, 520)
         self.configure(bg="#edf3f8")
 
